@@ -1,3 +1,4 @@
+#do not give generic names to your projects like "numbers.py" as it will mess with the modules and packages
 print("Addition: ", 5+41) #addition
 print("Subtraction: ", 1-9) #subtraction
 print("Multiplication: ", 5*4) #multiplication

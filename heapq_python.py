@@ -5,7 +5,7 @@ nums=[5,4,8,44,845,669]
 print(heapq.nlargest(3,nums)) #this will print the largest 3 numbers of the "list"
 print(heapq.nsmallest(2,nums))
 
-# for the case of a "dictionary"
+# for the case of a "list" of "dictionaries"
 stud=[
     {'name':'Priyansh','roll':'55'},
     {'name':'Alex','roll':'68'},
